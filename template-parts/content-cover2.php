@@ -25,7 +25,7 @@
 								<br class="d-block d-md-none" />
 								<p class="lead">We publish in national and international newspapers!</p>
 
-								<p>Feel free to contact us, we answer it right away:</p>
+								<p>Feel free to contact us, we answer right away:</p>
 
 
 
@@ -72,8 +72,8 @@
 			<div class="row justify-content-center  ">
 				<div class="col col-9 pb-5">
 					<p class="lead">
-						Edicts, tenders, requests, calls, preventive contests and more legal notices in all newspapers and Official Gazettes.
-						Send us your text, photo or a scan of your legal notice to be published through WhatsApp or by email (<a href="mailto:quote@legalnotice.us" class="" title="quote@legalnotice.us">quote@legalnotice.us</a>) indicating the newspaper of your preference and we will quote you instantly, <strong>free of charge!</strong>
+						Edicts, tenders, requests, calls, preventive contests and more legal notices in all newspapers and official gazettes.
+						Send us your text, photo or a scan of your legal notice you wish to publish through WhatsApp or by email (<a href="mailto:quote@legalnotice.us" class="" title="quote@legalnotice.us">quote@legalnotice.us</a>) indicating the newspaper of your preference and we will instantly provide you with a quote, <strong>free of charge!</strong>
 					</p>
 				</div>
 			</div>
@@ -211,8 +211,8 @@
 							<div class="d-flex  align-items-center h-100">
 								<div class="">
 									<h5 class="" style="text-transform: unset;letter-spacing:-0.06rem">Want some more information? Fill out this quick form.</h5>
-									<p>See what LegalNotices.us can do for you. Enter your information and send us your questions/requests, so we help you start advertising on US and International newspapers.</p>
-									<p>You can also request us a quote, we will send it to you with all our instructions to continue the publication. For any information, please contact us <strong>We will be glad to help you!</strong></p>
+									<p>See what LegalNotices.us can do for you. Enter your information and send us your questions/requests, so we can help you start advertising on US and international newspapers.</p>
+									<p>You can also request a quote, we will send it to you with all our instructions to continue with the publication. For more information, please contact us <strong>We will be glad to help you!</strong></p>
 								</div>
 							</div>
 						</div>

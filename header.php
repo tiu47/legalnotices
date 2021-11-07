@@ -93,8 +93,8 @@
 								<div class="col text-center">
 									<p>Send us the text of the notice to:
 									  <a href="tel:+18285821673" class="d-inline-block top-header-link" title="Call Us" ><img src="<?php echo esc_url(get_template_directory_uri().'/img/') ; ?>phone_icon.svg" width='13px'  class="d-inline-block" alt="Call Us" />     +1 828 582 1673</a>
-									  <a href="mailto:quote@legalnotice.us" class="d-inline-block top-header-link"  title="title"><img src="<?php echo esc_url(get_template_directory_uri().'/img/') ; ?>envelope_icon.svg"  width='16px' class="d-inline-block"  alt="whatsapp" /> quote@legalnotice.us</a> 
-									  or you also can fill our <a href="https://legalnotices.us/contact/" class="d-inline-block top-header-link"  title="title">Contact Form  <img src="<?php echo esc_url(get_template_directory_uri().'/img/') ; ?>form_icon.svg"  width='18px' class="d-inline-block"  alt="whatsapp" />  </a></p>
+									  <a href="mailto:quote@legalnotice.us" class="d-inline-block top-header-link"  title="title"><img src="<?php echo esc_url(get_template_directory_uri().'/img/') ; ?>envelope_icon.svg"  width='16px' class="d-inline-block"  alt="whatsapp" /> quote@legalnotice.us</a>
+									  or you can also fill out our <a href="https://legalnotices.us/contact/" class="d-inline-block top-header-link"  title="title">Contact Form  <img src="<?php echo esc_url(get_template_directory_uri().'/img/') ; ?>form_icon.svg"  width='18px' class="d-inline-block"  alt="whatsapp" />  </a></p>
 								</div>
 							</div>
 						</div>

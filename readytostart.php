@@ -7,7 +7,7 @@
 									<div class="col-lg-12 col-xl-7 text-md-center">
 										<!-- <h4>We can help you with your publication</h4> -->
 										<!-- <h4>Contact us to publish Legal Notices, Edicts and other publications</h4> -->
-										<h4>Publish <a href="https://legalnotices.us/publications/legal-notices/" class="georgia">Legal Notices</a>  , <a href="https://legalnotices.us/publications/edicts/" class="georgia">Edicts</a>  and <br class="d-none d-xl-block" /> many others newspaper publications</h4>
+										<h4>Publish <a href="https://legalnotices.us/publications/legal-notices/" class="georgia">Legal Notices</a>  , <a href="https://legalnotices.us/publications/edicts/" class="georgia">Edicts</a>  and <br class="d-none d-xl-block" /> many other newspaper publications</h4>
 										<!-- <h4>WE WORK WITH THE MOST CIRCULATED NEWSPAPERS IN THE COUNTRY!</h4> -->
 									</div>
 									<div class="col-lg-12 col-xl-2 text-center">

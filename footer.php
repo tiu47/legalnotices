@@ -22,7 +22,7 @@
 						<div class="container text-center ">
 							<div class="row">
 								<div class="col pb-2">
-									<p class="text-small">We accept all major payments methods:</p>
+									<p class="text-small">We accept all major payment methods:</p>
 								</div>
 							</div>
 							<div class="row justify-content-center">
