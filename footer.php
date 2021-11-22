@@ -194,7 +194,7 @@
 
 							<div class="col-12 text-center text-lg-start col-lg-7 px-5 px-lg-0  text-start h-100 ">
 								<p class="footer-copyright d-inline-block h-100 ">
-									Medios de América LLC  3615 NE 207TH ST, APT 3302, AVENTURA FL, 33180
+									Medios de América LLC 17103 N Bay RD. Apt 311, Sunny Isles Berach, Miami Dade, Florida EEUU
 									 <span class="px-2">|</span>
 									&copy;
 									Copyright <?php
